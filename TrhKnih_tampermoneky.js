@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TrhKnih
 // @namespace    http://tampermonkey.net/
-// @version      1.5.1
+// @version      1.5.2
 // @description  Automatické předvyplnění formulářů na TrhKnih
 // @author       Vojta Florian
 // @match        https://www.trhknih.cz/*
@@ -97,7 +97,7 @@
             clearButton.type = 'button';
             clearButton.textContent = '×';
             clearButton.style.position = 'absolute';
-            clearButton.style.right = '120px'; // Posunuto dál od tlačítka "Hledat"
+            clearButton.style.right = '150px'; // Posunuto dál od tlačítka "Hledat"
             clearButton.style.top = '50%';
             clearButton.style.transform = 'translateY(-50%)';
             clearButton.style.padding = '0';
