@@ -6,8 +6,8 @@
 // @author       Vojta Florian
 // @match        https://www.trhknih.cz/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=trhknih.cz
-// @downloadURL  https://raw.githubusercontent.com/vojtaflorian/TrhKnih_betterWF/main/TrhKnih_tampermoneky.js
-// @updateURL    https://raw.githubusercontent.com/vojtaflorian/TrhKnih_betterWF/main/TrhKnih_tampermoneky.js
+// @downloadURL  https://raw.githubusercontent.com/vojtaflorian/TrhKnih-Improvements/refs/heads/main/TrhKnih-improvements.user.js
+// @updateURL    https://raw.githubusercontent.com/vojtaflorian/TrhKnih-Improvements/refs/heads/main/TrhKnih-improvements.user.js
 // @grant        none
 // ==/UserScript==
 
